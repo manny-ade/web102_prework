@@ -1,29 +1,32 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: **Emmanuel Adewale**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
-
-Time spent: **X** hours spent in total
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+ 
+Time spent: **approximately 6-10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [] List anything else that you can get done to improve the app functionality!
+* [X] Navbar that scrolls page to each section (Home, Stats, Our Games)
+* [X] Changed page title to match the company/campaign name
+* [X] Added favicon to the page title as well
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Web 102 Prework Walkthrough.mp4 - Google Drive](https://res.cloudinary.com/marcomontalbano/image/upload/v1755117601/video_to_markdown/images/google-drive--1g4Rnx7L3lwpqZ95aWeToVhVjqrSfo7Ry-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1g4Rnx7L3lwpqZ95aWeToVhVjqrSfo7Ry/view "Web 102 Prework Walkthrough.mp4 - Google Drive")
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -34,7 +37,19 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Using the provided tutorials and resources in the challenges was helpful in completing this page, but 
+I also consulted a few other sources for additional help in understanding some of the main features
+as well as for adding new ones. Here they are:
+* [HTML Favicon | w3 Schools](https://www.w3schools.com/html/html_favicon.asp)
+* [How To Create a Top Navigation Bar | w3 Schools](https://www.w3schools.com/howto/howto_js_topnav.asp)
+* [html - How can I auto scroll when clicking on my nav bar to a specific part of my page? - Stack Overflow ](https://stackoverflow.com/questions/70268754/how-can-i-auto-scroll-when-clicking-on-my-nav-bar-to-a-specific-part-of-my-page)
+* [javascript - How to remove first array element using the spread syntax](https://stackoverflow.com/questions/52021748/how-to-remove-first-array-element-using-the-spread-syntax)
+* [Array: length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+
+Although I have learned a bit of JavaScript in previous experiences, there were definitely some new functions and features
+I have never used before that gave me a bit of a challenge. That said, of course, more often than not the answer came from
+slowing down and not overthinking the problem at hand. This was a challenging but actually fun experience, and I'm excited to learn more going forward.
+
 
 ## License
 
